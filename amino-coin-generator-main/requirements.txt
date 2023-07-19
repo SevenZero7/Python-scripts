@@ -1,5 +1,0 @@
-websocket-client
-json_minify
-flask
-pytz
-requests[socks]
