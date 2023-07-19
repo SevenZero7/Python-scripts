@@ -29,7 +29,7 @@ parameters = {
     "accounts-file":
         "./acc.json",
     "proxies": { 
-        "http": None
+        "http": "http://201.95.254.137:3128"
     }
 }
 
