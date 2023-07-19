@@ -31,7 +31,7 @@ parameters = {
     "proxies": { 
         "http": "socks5://holayo23:Nogayss123@185.199.229.156:7492", 
         "https": "socks5://holayo23:Nogayss123@185.199.229.156:7492"
-    }"
+    }
 }
 
 """"proxies": { 
