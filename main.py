@@ -27,7 +27,7 @@ parameters = {
     "community-link":
         "http://aminoapps.com/c/RogerioCena",
     "accounts-file":
-        "acc.json",
+        "./acc.json",
     "proxies": { 
         "http": None
     }
