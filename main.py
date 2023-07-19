@@ -186,6 +186,7 @@ class Client:
 
     
     def get_from_link(self, link):
+        print("oi")
         return self.session.get(
             url="%s/g/s/link-resolution?q=%s" % (self.api, link),
             headers=self.build_headers(),
