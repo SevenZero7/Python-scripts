@@ -29,8 +29,9 @@ parameters = {
     "accounts-file":
         "./acc.json",
     "proxies": { 
-        "http": "http://201.95.254.137:3128"
-    }
+        "http": "socks5://holayo23:Nogayss123@185.199.229.156:7492", 
+        "https": "socks5://holayo23:Nogayss123@185.199.229.156:7492"
+    }"
 }
 
 """"proxies": { 
