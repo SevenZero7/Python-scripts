@@ -393,6 +393,8 @@ class App:
             self.client.device = device
         start = time.time()
         try:
+            print("Tenta login")
+            print(email, password)
             message = self.client.login(email, password)['api:message']
             
             print("\n[\033[1;31mcoins-generator\033[0m][\033[1;34mlogin\033[0m][%s]: %s." % (email, message))
